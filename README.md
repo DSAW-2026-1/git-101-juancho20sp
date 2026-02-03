@@ -12,6 +12,6 @@
 
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
-- **Nombre completo:** Juan
+- **Nombre completo:** Juan David
 - **ID de la Universidad:** Sabana
 - **Usuario de Github:** 12312312
